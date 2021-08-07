@@ -1,2 +1,3 @@
 # edge_customer
-generative music with Web Audio API
+
+https://pparocza.github.io/edge_customer/
